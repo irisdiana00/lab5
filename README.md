@@ -2,9 +2,7 @@
 
 
 ```
-{
-
-**Convolutional neural networks (CNN) for Tree Classification & Mapping**
+## Convolutional neural networks (CNN) for Tree Classification & Mapping
 
 Convolutional neural networks (CNN) is a network architecture deep learning algorithm, 
 that works by automatically learning features from the input images, allowing them to 
@@ -94,6 +92,4 @@ Ying, W., Dong, T., Ding, Z., Zhang, X. (2021). PointCNN-Based Individual Tree D
 in Computer Graphics. CGI 2021. Lecture Notes in Computer Science(), vol 13002. Springer, Cham. 
 https://doi.org/10.1007/978-3-030-89029-2_7
 
-
-}
 ```
