@@ -1,20 +1,24 @@
 # Computer Vision in Remote Sensing
 
 
-
-
-
-
 ```
 {
 
-Convolutional neural networks (CNN) for Tree Classification & Mapping
+**Convolutional neural networks (CNN) for Tree Classification & Mapping**
 
-Convolutional Neural Networks (CNN) is a network architecture deep learning algorithm, that works by automatically learning features from the input images, allowing them to achieve high accuracy in complex task. CNN is made up of several layers that process and transform an input to produce an output. CNN is commonly used for image classification, object detection, and segmentation tasks.
+Convolutional neural networks (CNN) is a network architecture deep learning algorithm, that works by automatically learning features 
+from the input images, allowing them to achieve high accuracy in complex task. CNN is made up of several layers that process and 
+transform an input to produce an output. CNN is commonly used for image classification, object detection, and segmentation tasks.
 
-There are three key concepts in CNNs : local receptive fields, shared weights and biases, and activation and pooling. Using these three concepts, we can configure the layers in a CNN. CNN can have tens or hundreds of hidden layers that each learn to detect different features in an image. Thus, a very hidden layer increases the complexity of the learned image features. The first hidden layer learns how to detect edges, and the last learns how to detect more complex shapes. The final layer/final output  connects every neuron, from the last hidden layer to the output neurons (The MathWorks, Inc. 2017).
+There are three key concepts in CNNs : local receptive fields, shared weights and biases, and activation and pooling. Using these 
+three concepts, we can configure the layers in a CNN. CNN can have tens or hundreds of hidden layers that each learn to detect different 
+features in an image. Thus, a very hidden layer increases the complexity of the learned image features. The first hidden layer learns 
+how to detect edges, and the last learns how to detect more complex shapes. The final layer/final output  connects every neuron, from 
+the last hidden layer to the output neurons (The MathWorks, Inc. 2017).
 
-There are three ways to use CNN for image analysis. The first method is to train CNN from scratch. This method is the most accurate and the most challenging. The second method relies on transfer learning, which is based on the idea that you can use knowledge of one type of problem to solve a similar problem. For example, a CNN model that has been trained to recognize animals to initialize and train a new model that differentiates between cars and trucks.  The third method, you can use a pre-trained CNN to extract features for training a machine learning model. For example, this can involve a hidden layer that has learned how to detect edges in an image is broadly relevant to images from many different domains. This method requires the least amount of data and computational resources vs the first two methods (The MathWorks, Inc. 2017).
+There are three ways to use CNN for image analysis. The first method is to train CNN from scratch. This method is the most accurate and 
+the most challenging. The second method relies on transfer learning, which is based on the idea that you can use knowledge of one type of 
+problem to solve a similar problem. For example, a CNN model that has been trained to recognize animals to initialize and train a new model that differentiates between cars and trucks.  The third method, you can use a pre-trained CNN to extract features for training a machine learning model. For example, this can involve a hidden layer that has learned how to detect edges in an image is broadly relevant to images from many different domains. This method requires the least amount of data and computational resources vs the first two methods (The MathWorks, Inc. 2017).
 
 CNN & Hyperspectral Imagery:
 
