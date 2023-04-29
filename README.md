@@ -1,5 +1,4 @@
 # Computer Vision in Remote Sensing
-
 ```
 {
 
